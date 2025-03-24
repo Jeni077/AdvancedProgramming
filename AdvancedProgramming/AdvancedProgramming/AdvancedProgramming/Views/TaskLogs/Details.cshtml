@@ -1,0 +1,42 @@
+﻿@model AdvancedProgramming.Data.TaskLog
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TaskLog</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.LogMessage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LogMessage)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CreatedDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreatedDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Task.TaskName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Task.TaskName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.LogId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

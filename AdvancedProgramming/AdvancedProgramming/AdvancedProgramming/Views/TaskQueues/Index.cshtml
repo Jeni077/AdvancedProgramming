@@ -1,0 +1,41 @@
+﻿@model IEnumerable<AdvancedProgramming.Data.TaskQueue>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", new { @class = "btn btn-primary" })
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Status)</th>
+            <th>@Html.DisplayNameFor(model => model.Priority)</th>
+            <th>@Html.DisplayNameFor(model => model.CreatedDate)</th>
+            <th>@Html.DisplayNameFor(model => model.ExecutionDate)</th>
+            <th>@Html.DisplayNameFor(model => model.Task.TaskName)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Status)</td>
+                <td>@Html.DisplayFor(modelItem => item.Priority)</td>
+                <td>@Html.DisplayFor(modelItem => item.CreatedDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.ExecutionDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.Task.TaskName)</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.QueueId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.QueueId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.QueueId, @onclick = "return confirm('¿Estás seguro de que deseas eliminar esta tarea?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

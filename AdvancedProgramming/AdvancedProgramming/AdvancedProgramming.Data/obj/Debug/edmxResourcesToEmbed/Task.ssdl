@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TaskModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TaskHistory">
+    <Key>
+      <PropertyRef Name="HistoryId" />
+    </Key>
+    <Property Name="HistoryId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TaskId" Type="int" Nullable="false" />
+    <Property Name="Status" Type="nvarchar" MaxLength="10" />
+    <Property Name="ExecutionStart" Type="datetime" Nullable="false" />
+    <Property Name="ExecutionEnd" Type="datetime" />
+  </EntityType>
+  <EntityType Name="TaskLogs">
+    <Key>
+      <PropertyRef Name="LogId" />
+    </Key>
+    <Property Name="LogId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TaskId" Type="int" Nullable="false" />
+    <Property Name="LogMessage" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TaskQueue">
+    <Key>
+      <PropertyRef Name="QueueId" />
+    </Key>
+    <Property Name="QueueId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TaskId" Type="int" Nullable="false" />
+    <Property Name="Status" Type="nvarchar" MaxLength="10" />
+    <Property Name="Priority" Type="nvarchar" MaxLength="10" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="ExecutionDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tasks">
+    <Key>
+      <PropertyRef Name="TaskId" />
+    </Key>
+    <Property Name="TaskId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TaskName" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="Priority" Type="nvarchar" MaxLength="10" />
+    <Property Name="Status" Type="nvarchar" MaxLength="10" />
+    <Property Name="ExecutionDate" Type="datetime" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="datetime" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="PasswordHash" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Role" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreatedDate" Type="datetime" Nullable="false" />
+    <Property Name="UpdatedDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Task.dbo.QueueStatus' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="QueueStatus">
+    <Key>
+      <PropertyRef Name="QueueId" />
+      <PropertyRef Name="TaskName" />
+      <PropertyRef Name="ExecutionDate" />
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="QueueId" Type="int" Nullable="false" />
+    <Property Name="TaskName" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="TaskStatus" Type="nvarchar" MaxLength="10" />
+    <Property Name="QueueStatus" Type="nvarchar" MaxLength="10" />
+    <Property Name="Priority" Type="nvarchar" MaxLength="10" />
+    <Property Name="ExecutionDate" Type="datetime" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__TaskHisto__TaskI__45F365D3">
+    <End Role="Tasks" Type="Self.Tasks" Multiplicity="1" />
+    <End Role="TaskHistory" Type="Self.TaskHistory" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tasks">
+        <PropertyRef Name="TaskId" />
+      </Principal>
+      <Dependent Role="TaskHistory">
+        <PropertyRef Name="TaskId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TaskLogs__TaskId__403A8C7D">
+    <End Role="Tasks" Type="Self.Tasks" Multiplicity="1" />
+    <End Role="TaskLogs" Type="Self.TaskLogs" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tasks">
+        <PropertyRef Name="TaskId" />
+      </Principal>
+      <Dependent Role="TaskLogs">
+        <PropertyRef Name="TaskId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TaskQueue__TaskI__4AB81AF0">
+    <End Role="Tasks" Type="Self.Tasks" Multiplicity="1" />
+    <End Role="TaskQueue" Type="Self.TaskQueue" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tasks">
+        <PropertyRef Name="TaskId" />
+      </Principal>
+      <Dependent Role="TaskQueue">
+        <PropertyRef Name="TaskId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Tasks__UserId__3D5E1FD2">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="Tasks" Type="Self.Tasks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Tasks">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="AddTaskToQueue" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="TaskId" Type="int" Mode="In" />
+    <Parameter Name="ExecutionDate" Type="datetime" Mode="In" />
+    <Parameter Name="Priority" Type="nvarchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="TaskModelStoreContainer">
+    <EntitySet Name="TaskHistory" EntityType="Self.TaskHistory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TaskLogs" EntityType="Self.TaskLogs" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TaskQueue" EntityType="Self.TaskQueue" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tasks" EntityType="Self.Tasks" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="QueueStatus" EntityType="Self.QueueStatus" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [QueueStatus].[QueueId] AS [QueueId], 
+    [QueueStatus].[TaskName] AS [TaskName], 
+    [QueueStatus].[TaskStatus] AS [TaskStatus], 
+    [QueueStatus].[QueueStatus] AS [QueueStatus], 
+    [QueueStatus].[Priority] AS [Priority], 
+    [QueueStatus].[ExecutionDate] AS [ExecutionDate], 
+    [QueueStatus].[UserId] AS [UserId]
+    FROM [dbo].[QueueStatus] AS [QueueStatus]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__TaskHisto__TaskI__45F365D3" Association="Self.FK__TaskHisto__TaskI__45F365D3">
+      <End Role="Tasks" EntitySet="Tasks" />
+      <End Role="TaskHistory" EntitySet="TaskHistory" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TaskLogs__TaskId__403A8C7D" Association="Self.FK__TaskLogs__TaskId__403A8C7D">
+      <End Role="Tasks" EntitySet="Tasks" />
+      <End Role="TaskLogs" EntitySet="TaskLogs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TaskQueue__TaskI__4AB81AF0" Association="Self.FK__TaskQueue__TaskI__4AB81AF0">
+      <End Role="Tasks" EntitySet="Tasks" />
+      <End Role="TaskQueue" EntitySet="TaskQueue" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Tasks__UserId__3D5E1FD2" Association="Self.FK__Tasks__UserId__3D5E1FD2">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Tasks" EntitySet="Tasks" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

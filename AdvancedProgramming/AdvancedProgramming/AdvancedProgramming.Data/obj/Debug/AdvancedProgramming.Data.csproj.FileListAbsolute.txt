@@ -1,0 +1,54 @@
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.dll.config
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.dll
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.pdb
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.dll
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.xml
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.AssemblyReference.cache
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.CoreCompileInputs.cache
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\Advanced.30991138.Up2Date
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.dll
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.dll.config
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.xml
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\Advanced.30991138.Up2Date
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.Resource1.resources
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.GenerateResource.cache
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.dll.config
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.dll
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.pdb
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.dll
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.xml
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.AssemblyReference.cache
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.Resource1.resources
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.GenerateResource.cache
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\Advanced.30991138.Up2Date
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.dll
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.pdb
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.dll.config
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.dll
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\AdvancedProgramming.Data.pdb
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.dll
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.xml
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.AssemblyReference.cache
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.Resource1.resources
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.GenerateResource.cache
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.CoreCompileInputs.cache
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.csproj.CopyComplete
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.dll
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Data\obj\Debug\AdvancedProgramming.Data.pdb

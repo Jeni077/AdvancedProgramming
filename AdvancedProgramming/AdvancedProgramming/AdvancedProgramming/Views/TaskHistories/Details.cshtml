@@ -1,0 +1,50 @@
+﻿@model AdvancedProgramming.Data.TaskHistory
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TaskHistory</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExecutionStart)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExecutionStart)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExecutionEnd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExecutionEnd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Task.TaskName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Task.TaskName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.HistoryId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

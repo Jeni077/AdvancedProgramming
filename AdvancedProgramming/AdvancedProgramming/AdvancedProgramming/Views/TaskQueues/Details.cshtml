@@ -1,0 +1,58 @@
+﻿@model AdvancedProgramming.Data.TaskQueue
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TaskQueue</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Priority)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Priority)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CreatedDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreatedDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExecutionDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExecutionDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Task.TaskName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Task.TaskName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.QueueId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

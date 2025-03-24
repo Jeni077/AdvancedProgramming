@@ -1,0 +1,63 @@
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.dll.config
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.dll
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.pdb
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.dll
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.dll
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.pdb
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.dll.config
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.xml
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.csproj.AssemblyReference.cache
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.csproj.CoreCompileInputs.cache
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\Advanced.5934BE20.Up2Date
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.dll
+C:\Users\varit\source\repos\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.dll.config
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.dll.config
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.xml
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\Advanced.5934BE20.Up2Date
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\App.config
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.csproj.AssemblyReference.cache
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.dll
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.pdb
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\App.config
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.dll.config
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.dll
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.pdb
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.dll
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.pdb
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.dll.config
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\Advanced.5934BE20.Up2Date
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\App.config
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.dll.config
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.dll
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Repository.pdb
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.dll
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.dll
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.pdb
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\AdvancedProgramming.Data.dll.config
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.xml
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.csproj.AssemblyReference.cache
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.csproj.CopyComplete
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.dll
+C:\Users\jenia\OneDrive\Escritorio\Nuevo 1.1\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Repository\obj\Debug\AdvancedProgramming.Repository.pdb

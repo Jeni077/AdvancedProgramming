@@ -1,0 +1,12 @@
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.pdb
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
+E:\repositories\UFide\Progra Avanzada _\Cuatrimestre 3\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\bin\Debug\AdvancedProgramming.Architecture.pdb
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.AssemblyReference.cache
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.dll
+C:\Users\Tamdav\Documents\P Programacion Avanzada\AdvancedProgramming\AdvancedProgramming\AdvancedProgramming.Architecture\obj\Debug\AdvancedProgramming.Architecture.pdb
